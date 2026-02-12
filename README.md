@@ -31,3 +31,15 @@ You can also just double-click **`index.html`** to view the site directly.
 - **React 18** (CDN)
 - **Tailwind-like Custom CSS**
 - **Lucide Icons**
+
+## 🌐 Deployment (GitHub)
+To push changes to the repository:
+1.  Open a terminal in the project folder:
+    ```bash
+    cd c:\Users\KIBIWOT\Downloads\PORTFOLIO
+    ```
+2.  Run the push command:
+    ```bash
+    git push -u origin main
+    ```
+3.  Authenticate with your GitHub credentials if prompted.
